@@ -1,0 +1,52 @@
+* {
+    font-family: sans-serif;
+}
+.container {
+    text-align: center;
+}
+h3 {
+    color: rgb(32, 146, 4);
+}
+label {
+    font-weight: bold;
+}
+input {
+    padding: 5px;
+    margin-top: 6px;
+}
+button {
+    background-color: rgb(255, 189, 9);
+    padding: 5px 15px;
+    color:rgb(223, 1, 1);
+    font-weight: bolder;
+    border: 1px solid rgb(250, 227, 227);
+    border-radius: 5px;
+}
+button:hover {
+    background-color: rgb(248, 6, 6);
+    color: antiquewhite;
+    cursor:pointer;
+}
+.display {
+    display: none;
+}
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+span {
+    font-size: 24px;
+    color: brown;
+}
+.underWeight{
+    color: cadetblue;
+}
+.normal {
+    color: green;
+}
+.overWeight{
+    color: rgb(238, 89, 89);
+}
+.obese {
+    color : red;
+}
